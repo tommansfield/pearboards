@@ -1,0 +1,9 @@
+.main {
+  position: absolute;
+  height: 100%;
+  overflow-y: hidden;
+  width: 100%;
+  top: 50px;
+  background-color:honeydew;
+  margin: 10px;
+} 
